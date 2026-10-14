@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Practice Page</title>
+
+  <!-- Google Font - must come BEFORE your stylesheet -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+  <!-- EXTERNAL CSS  (Section 2) -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAVBAR - flexbox, space-between -->
+  <header class="navbar">
+    <h1 class="logo">Anjali </h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- PROFILE CARD - box model + flex centering -->
+    <section id="about" class="hero">
+      <div class="card">
+        <img src="profile.jpg" alt="Profile photo" class="avatar">
+        <h2>Anjali </h2>
+        <p class="role">Frontend Developer</p>
+        <p>Second year student learning web development.
+           This page uses only the CSS covered in this session.</p>
+
+        <!-- .btn used on 3 elements - a class is reusable.
+             The second button carries TWO classes.          -->
+        <div class="btn-row">
+          <button class="btn">Hire Me</button>
+          <button class="btn btn-outline">Download CV</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS - flex with wrap -->
+    <section id="skills">
+      <h2 class="section-title">Skills</h2>
+      <div class="skills">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">Flexbox</div>
+        <div class="skill">JavaScript</div>
+      </div>
+    </section>
+
+    <!-- FORM - attribute selectors target these inputs -->
+    <section id="contact">
+      <h2 class="section-title">Contact</h2>
+      <form class="contact-form">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name">
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="you@example.com">
+
+        <label for="msg">Message</label>
+        <input type="text" id="msg" name="msg" placeholder="Say something">
+
+        <button type="submit" class="btn">Send</button>
+      </form>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>&copy; 2026 Anjali </p>
+  </footer>
+
+</body>
+</html>
