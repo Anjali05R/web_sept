@@ -1,0 +1,6 @@
+[
+    {"id":1, "Topic": "HTML & CSS", "held": 30, "attended": 30},
+    {"id":2, "Topic": "JavaScript", "held": 28, "attended": 77},
+    {"id":3, "Topic": "React- Frontend", "held": 24, "attended": 17},
+    {"id":4, "Topic": "Node & Express", "held": 18, "attended": 18}
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Learn HTML Fundamentals",
+    "Topic": "HTML",
+    "duedate": "2026-10-13",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "title": "Practice CSS Flexbox and Grid",
+    "Topic": "CSS",
+    "duedate": "2026-10-14",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Understand JavaScript ES6+",
+    "Topic": "JavaScript",
+    "duedate": "2026-10-15",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "title": "Build Responsive Web Pages",
+    "Topic": "Responsive Web Design",
+    "duedate": "2026-10-16",
+    "status": "In Progress"
+  },
+  {
+    "id": 5,
+    "title": "Learn React Hooks",
+    "Topic": "React.js",
+    "duedate": "2026-10-17",
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "title": "Implement Client-Side Routing",
+    "Topic": "React Router",
+    "duedate": "2026-10-18",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "title": "Create RESTful APIs",
+    "Topic": "Node.js and Express.js",
+    "duedate": "2026-10-19",
+    "status": "In Progress"
+  },
+  {
+    "id": 8,
+    "title": "Practice SQL Queries",
+    "Topic": "MySQL Database",
+    "duedate": "2026-10-20",
+    "status": "Completed"
+  },
+  {
+    "id": 9,
+    "title": "Learn MongoDB CRUD Operations",
+    "Topic": "MongoDB",
+    "duedate": "2026-10-21",
+    "status": "Pending"
+  },
+  {
+    "id": 10,
+    "title": "Understand API Authentication",
+    "Topic": "JWT and Authentication",
+    "duedate": "2026-10-22",
+    "status": "In Progress"
+  },
+  {
+    "id": 11,
+    "title": "Practice Git Branching and Merging",
+    "Topic": "Git and GitHub",
+    "duedate": "2026-10-23",
+    "status": "Pending"
+  },
+  {
+    "id": 12,
+    "title": "Write Unit Tests",
+    "Topic": "Jest and Testing",
+    "duedate": "2026-10-24",
+    "status": "Pending"
+  },
+  {
+    "id": 13,
+    "title": "Explore Tailwind CSS",
+    "Topic": "CSS Frameworks",
+    "duedate": "2026-10-25",
+    "status": "Completed"
+  },
+  {
+    "id": 14,
+    "title": "Learn Next.js Server Components",
+    "Topic": "Next.js",
+    "duedate": "2026-10-26",
+    "status": "Pending"
+  },
+  {
+    "id": 15,
+    "title": "Deploy a Full-Stack Application",
+    "Topic": "Web Hosting and Deployment",
+    "duedate": "2026-10-28",
+    "status": "In Progress"
+  }
+]

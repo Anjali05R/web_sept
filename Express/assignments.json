@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Personal profile page", "subject": "HTML and CSS", "dueDate": "6 Oct", "status": "Submitted" },
+  { "id": 2, "title": "Bootstrap landing page", "subject": "HTML and CSS", "dueDate": "9 Oct", "status": "Submitted" },
+  { "id": 3, "title": "Student result calculator", "subject": "JavaScript", "dueDate": "13 Oct", "status": "Submitted" },
+  { "id": 4, "title": "Form validation", "subject": "JavaScript", "dueDate": "16 Oct", "status": "Submitted" },
+  { "id": 5, "title": "Dashboard with StatCard", "subject": "React", "dueDate": "20 Oct", "status": "Pending" },
+  { "id": 6, "title": "Pages with React Router", "subject": "React", "dueDate": "23 Oct", "status": "Pending" }
+]
